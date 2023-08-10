@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB_NestedFamilyTest - Command 1</Text>
+    <Description>Some description for RAB_NestedFamilyTest</Description>
+    <Assembly>RAB_NestedFamilyTest.dll</Assembly>
+    <FullClassName>RAB_NestedFamilyTest.Command1</FullClassName>
+    <ClientId>b1605e44-00d5-4038-b6ef-3311acdb957c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_NestedFamilyTest - Command 2</Text>
+    <Description>Some description for RAB_NestedFamilyTest</Description>
+    <Assembly>RAB_NestedFamilyTest.dll</Assembly>
+    <FullClassName>RAB_NestedFamilyTest.Command2</FullClassName>
+    <ClientId>9b9985a8-5c87-496b-8931-a3df92ac034f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_NestedFamilyTest</Name>
+    <Assembly>RAB_NestedFamilyTest.dll</Assembly>
+    <FullClassName>RAB_NestedFamilyTest.App</FullClassName>
+    <ClientId>702e00ca-523c-482b-b23a-ad900f8f1bf7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
